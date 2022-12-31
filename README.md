@@ -6,4 +6,6 @@ The aim of my team's project in this hackathon was to create an initiative that 
 
 I designed the website, using Adobe Photoshop, that lists the services which people can contribute funds for.
 
+___
+
 ![quadratic-website](https://user-images.githubusercontent.com/86746016/210125934-4c5fde8b-2692-41e5-a40e-14da81ccad3e.jpg)
